@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x48E4Bb42eA97fD2dDEE533f1caeD11A600F54D6A",
+  "SCAN_LINK": "https://polygonscan.com/token/0x48e4bb42ea97fd2ddee533f1caed11a600f54d6a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Cigarboys",
+  "SYMBOL": "CB",
+  "MAX_SUPPLY": 7777,
+  "WEI_COST": 200000000000000000,
+  "DISPLAY_COST": 0.2,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/cigarboys",
+  "SHOW_BACKGROUND": true
+}
